@@ -1,8 +1,0 @@
-<IfModule mod_rewrite.c>
-    Options +FollowSymlinks -Indexes
-    RewriteEngine on
-
-    RewriteCond %{HTTP_HOST} ^vlad.ro$
-    RewriteRule ^(.*)$ https://vlad.ro/$1 [L,R=301]
-
-</IfModule>
