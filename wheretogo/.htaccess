@@ -1,7 +1,0 @@
-
-RewriteEngine on
-
-RewriteCond %{HTTP_HOST} ^wheretogo\.vlad\.ro$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.wheretogo\.vlad\.ro$
-RewriteRule ^/?$ "https\:\/\/vlad\.nastasiu\.com\/wheretogo\/" [R=301,L]
-
