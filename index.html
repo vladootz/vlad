@@ -10,6 +10,7 @@
             font-family: 'Didact Gothic';
             margin: 0;
             padding: 0;
+            min-height: 660px;
         }
         .pita {
             width: 100%;
@@ -25,6 +26,22 @@
             align-self: center;
             margin: 0 auto;
             text-align: left;
+        }
+        .prajituri {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            background: #f5f5f5;
+            padding: .5rem;
+        }
+        .prajituri button {
+            background: transparent;
+            border: 1px solid #aeaeae;
+            cursor: pointer;
+            margin-left: 1rem;
+        }
+        .nuvad {
+            display: none;
         }
         @media screen and (max-width: 768px) {
             .pita > div {
@@ -71,6 +88,10 @@
             <p>
                 <abbr title="Chief Technology Officer">CTO</abbr> at <a href="https://cabestan.co/">Cabestan</a><a class="write" target="_blank">.</a>
             </p>
+            <div class="prajituri nuvad">
+                <span>Cookies?</span>
+                <button type="button" onclick="okPraji();">Ok.</button>
+            </div>
         </div>
     </div>
     <script>
@@ -79,18 +100,35 @@
     </script>
     <!-- Piwik -->
     <script>
-        var _paq = _paq || [];
-        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-        _paq.push(["setCookieDomain", "*.vlad.ro"]);
-        _paq.push(['trackPageView']);
-        _paq.push(['enableLinkTracking']);
-        (function() {
-            var u="//stats.nsu.ro/";
-            _paq.push(['setTrackerUrl', u+'piwik.php']);
-            _paq.push(['setSiteId', '3']);
-            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-        })();
+        var urmareste = function() {
+            var _paq = _paq || [];
+            /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+            _paq.push(["setCookieDomain", "*.vlad.ro"]);
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
+            (function() {
+                var u="//stats.nsu.ro/";
+                _paq.push(['setTrackerUrl', u+'piwik.php']);
+                _paq.push(['setSiteId', '3']);
+                var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+            })();
+        }
+
+        let praji = document.cookie;
+
+        if (praji.indexOf('prajitura007') < 0) {
+            document.querySelector('.prajituri.nuvad').className = 'prajituri';
+        } else {
+            urmareste();
+        }
+
+        var okPraji = function() {
+            document.cookie = 'prajitura007=ok';
+            document.querySelector('.prajituri').className = 'prajituri nuvad';
+
+            urmareste();
+        }
     </script>
     <!-- End Piwik Code -->
 </body>
