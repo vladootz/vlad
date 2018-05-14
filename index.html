@@ -88,9 +88,8 @@
             <p>
                 Developer at <a href="https://cabestan.co/">Cabestan</a>. <a class="write" target="_blank">mail me.</a>
             </p>
-            <div class="prajituri nuvad">
-                <span>Cookies?</span>
-                <button type="button" onclick="okPraji();">Ok.</button>
+            <div class="prajituri">
+                <span>This website does not use cookies</span>
             </div>
         </div>
     </div>
@@ -98,38 +97,5 @@
         var em = document.querySelector('.write');
         em.href = 'mailto:'+'vlad'+'@'+'cabestan.co';
     </script>
-    <!-- Piwik -->
-    <script>
-        var urmareste = function() {
-            var _paq = _paq || [];
-            /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-            _paq.push(["setCookieDomain", "*.vlad.ro"]);
-            _paq.push(['trackPageView']);
-            _paq.push(['enableLinkTracking']);
-            (function() {
-                var u="//stats.nsu.ro/";
-                _paq.push(['setTrackerUrl', u+'piwik.php']);
-                _paq.push(['setSiteId', '3']);
-                var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-                g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-            })();
-        }
-
-        let praji = document.cookie;
-
-        if (praji.indexOf('prajitura007') < 0) {
-            document.querySelector('.prajituri.nuvad').className = 'prajituri';
-        } else {
-            urmareste();
-        }
-
-        var okPraji = function() {
-            document.cookie = 'prajitura007=ok';
-            document.querySelector('.prajituri').className = 'prajituri nuvad';
-
-            urmareste();
-        }
-    </script>
-    <!-- End Piwik Code -->
 </body>
 </html>
