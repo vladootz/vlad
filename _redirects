@@ -1,3 +1,2 @@
-/*.html  https://vlad.nastasiu.com/archive/:splat.html 301!
-http://archive.vlad.ro/* https://vlad.ro/ 301!
-https://archive.vlad.ro/* https://vlad.ro/ 301!
+http://archive.vlad.ro/*  https://vlad.nastasiu.com/archive/:splat 301!
+https://archive.vlad.ro/*  https://vlad.nastasiu.com/archive/:splat 301!
