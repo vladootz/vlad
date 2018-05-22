@@ -1,9 +1,8 @@
 ---
-home: true
-title: all takes time &larr; and
+title: Growing
 ---
 
-Manifest
+Growing
 --------
 
 We all strive to become better at who we are, at what we do. Or we should try.

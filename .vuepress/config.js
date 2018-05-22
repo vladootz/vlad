@@ -1,8 +1,11 @@
 module.exports = {
+  title: 'all takes time ← and',
+  description: ' ',
   themeConfig: {
     nav: [
-      { text: 'Manifest', link: '/' },
-      { text: 'Archive', link: 'https://vlad.nastasiu.com/archive/' },
+      { text: 'FP', link: '/' },
+      { text: 'Work', link: '/work' },
+      { text: 'Archive ➚', link: 'https://vlad.nastasiu.com/archive/' },
     ]
   }
 }
