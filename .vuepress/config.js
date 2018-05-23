@@ -6,6 +6,7 @@ module.exports = {
       { text: 'FP', link: '/' },
       { text: 'Projects', link: '/projects' },
       { text: 'Events', link: '/events' },
+      { text: 'Ciocovrig Â', link: '/ciocovrig' },
       { text: 'Archive âžš', link: 'https://vlad.nastasiu.com/archive/' },
     ]
   }
