@@ -2,7 +2,7 @@
 title: Ciocovrig
 ---
 
-Ciocovrig ©2018 vlad.ro
+Ciocovrig :copyright: 2018 - vlad.ro
 ---
 
-Remember cronuts? Well, you won't forget Ciocovrig so easy.
+Remember cronuts? Well, you won't forget Ciocovrig so easily.
