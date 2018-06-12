@@ -3,7 +3,7 @@ module.exports = {
   description: ' ',
   themeConfig: {
     nav: [
-      { text: 'FP', link: '/' },
+      { text: '/', link: '/' },
       { text: 'Projects', link: '/projects' },
       { text: 'Events', link: '/events' },
       { text: 'Ciocovrig', link: '/ciocovrig' },
