@@ -1,8 +1,18 @@
 ---
-title: Growing
+title: nvm
 ---
 
-Growing
+Growing #2
+---
+
+You can only **do** things right now.
+
+"The time is now" as Moloko's Róisín sings. What you eat, drink, watch, type, read now, how much you sleep now, it all compounds to who you are, now and later. And maybe you don't like a certain element of you now - you watch too much crap, eat too much fast food, read the news. But you can stop right now, and do the things that you know are right for you.
+
+What's been done is in the past, what will come, will have to wait.
+
+
+Growing #1
 ---
 
 We all strive to become better at who we are, at what we do. Or we should try.
