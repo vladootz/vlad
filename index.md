@@ -2,8 +2,8 @@
 title: nvm
 ---
 
-Growing #2
----
+Growing #2 - Do now
+-
 
 You can only **do** things right now.
 
@@ -12,8 +12,8 @@ You can only **do** things right now.
 What's been done is in the past, what will come, will have to wait.
 
 
-Growing #1
----
+Growing #1 - Face yourself
+-
 
 We all strive to become better at who we are, at what we do. Or we should try.
 Some know what to do in order to get there. But don't realise it.
