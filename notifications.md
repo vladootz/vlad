@@ -2,8 +2,8 @@
 title: NOtifications
 ---
 
-NOtifications
--
+## NOtifications
+
 
 A list of resources to improve your attention span and remind yourself that the
 devices you use are tools and you should treat them accordingly:

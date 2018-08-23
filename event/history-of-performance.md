@@ -1,13 +1,14 @@
 ---
-title: Events
+title: History of performance in Romania
+date: 2018-05-16
+data: 16th May 2018
 ---
 
-Speech about the history of performance in Romania
--
+## Speech about the history of performance in Romania
 
 - *Performance-ul în România: istorie și discurs actual*
 - :woman: - Magda Radu
-- :clock7: - Wednesday, 16 may 2018, 19:00
+- :clock7: - Wednesday, 16th may 2018, 19:00
 - :classical_building: - Salonul de Proiecte, Bucharest
 
 The first term used to describe a performance in 70s Romania was *action*.<br/>

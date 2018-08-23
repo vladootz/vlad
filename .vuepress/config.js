@@ -3,11 +3,11 @@ module.exports = {
   description: ' ',
   themeConfig: {
     nav: [
-      { text: '/', link: '/' },
-      { text: 'Projects', link: '/projects' },
-      { text: 'Events', link: '/events' },
+      { text: 'vlad', link: '/' },
+      { text: 'works', link: '/projects' },
+      { text: 'writes', link: '/blog/' },
+      { text: 'goes to', link: '/event/' },
       { text: 'NOtifications', link: '/notifications' },
-      { text: 'Archive ➚', link: 'https://vlad.nastasiu.com/archive/' },
     ]
   }
 }
