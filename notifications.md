@@ -16,3 +16,4 @@ devices you use are tools and you should treat them accordingly:
 - [The Dangers Of Social Media Addiction](https://youtu.be/YPmNf362_K0?t=3m3s) - [Simon Sinek](https://startwithwhy.com/)
 - [Pushing Through Frustration: Why I’m Getting Rid of My Phone](https://www.theminimalists.com/frustration/) - [Joshua Fields Millburn](https://www.theminimalists.com/about/#jfm)
 - [Reprogramming the Twitch](https://www.theminimalists.com/twitch/) - [Joshua Fields Millburn](https://www.theminimalists.com/about/#jfm)
+- [Connected, but alone?](https://www.youtube.com/watch?v=t7Xr3AsBEK4) - [Sherry Turkle](https://sherryturkle.com/)
