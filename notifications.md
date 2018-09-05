@@ -18,3 +18,4 @@ devices you use are tools and you should treat them accordingly:
 - [Reprogramming the Twitch](https://www.theminimalists.com/twitch/) - [Joshua Fields Millburn](https://www.theminimalists.com/about/#jfm)
 - [The true cost of email and IM](https://blog.rescuetime.com/communication-multitasking/)
 - [Connected, but alone?](https://www.youtube.com/watch?v=t7Xr3AsBEK4) - [Sherry Turkle](https://sherryturkle.com/)
+- [Having Your Smartphone Nearby Takes a Toll on Your Thinking](https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking)
