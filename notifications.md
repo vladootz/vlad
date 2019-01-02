@@ -19,3 +19,4 @@ devices you use are tools and you should treat them accordingly:
 - [The true cost of email and IM](https://blog.rescuetime.com/communication-multitasking/)
 - [Connected, but alone?](https://www.youtube.com/watch?v=t7Xr3AsBEK4) - [Sherry Turkle](https://sherryturkle.com/)
 - [Having Your Smartphone Nearby Takes a Toll on Your Thinking](https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking)
+- [Six years with a distraction free iphone](https://medium.com/s/story/six-years-with-a-distraction-free-iphone-8cf5eb4f97e3)
