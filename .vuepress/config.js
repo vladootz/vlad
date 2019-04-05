@@ -5,10 +5,9 @@ module.exports = {
     nav: [
       { text: 'vlad', link: '/' },
       { text: 'works', link: '/projects' },
-      { text: 'writes', link: '/blog/' },
+      { text: 'writes', link: '/article/' },
       { text: 'goes to', link: '/event/' },
-      { text: 'NOtifications', link: '/notifications' },
-      { text: '1.000.000', link: 'https://vladvoiculescu.ro/' },
+      { text: 'NOtifications', link: '/notifications' }
     ]
   }
 }

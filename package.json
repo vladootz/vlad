@@ -1,5 +1,5 @@
 {
-  "name": "vlad.ro",
+  "name": "vlad.nastasiu.com",
   "version": "1.0.0",
   "description": "Vlad's personal website",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vladootz/vlad.ro.git"
+    "url": "git+https://github.com/vladootz/vlad.git"
   },
   "author": "Vlad Nastasiu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vladootz/vlad.ro/issues"
+    "url": "https://github.com/vladootz/vlad/issues"
   },
-  "homepage": "https://github.com/vladootz/vlad.ro#readme",
+  "homepage": "https://vlad.nastasiu.com",
   "dependencies": {
     "vuepress": "^0.8.4"
   }
