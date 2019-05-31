@@ -2,7 +2,7 @@
 title: Vlad Nastasiu
 ---
 
-## Hello, ¡Hola, Bună
+## Hello, ¡Hola, Salut
 
 My name is Vlad and I write stuff, mostly code.
 

@@ -6,7 +6,7 @@ module.exports = {
       { text: 'vlad', link: '/' },
       { text: 'works', link: '/projects' },
       { text: 'writes', link: '/article/' },
-      { text: 'goes to', link: '/event/' }
+      { text: 'walks to', link: '/event/' }
     ]
   }
 }
