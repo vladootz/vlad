@@ -8,7 +8,7 @@ title: NOtifications
 A list of resources to improve your attention span and remind yourself that the
 devices you use are tools and you should treat them accordingly:
 
-- [Digital Hygiene: How We Might've Fucked Our Attention Spans](https://www.youtube.com/watch?v=VpHyLG-sc4g) - [Exurb1a](https://www.youtube.com/channel/UCimiUgDLbi6P17BdaCZpVbg)
+- [Digital Hygiene: How We Might've Fucked Our Attention Spans](https://www.youtube.com/watch?v=VpHyLG-sc4g) - [Exurb1a](https://www.youtube.com/user/willunicycleforfood/)
 - [Take control](https://humanetech.com/take-control/) - [Center for Humane Technology](https://humanetech.com/)
 - [How a handful of tech companies control billions of minds every day](https://www.youtube.com/watch?v=C74amJRp730) - [Tristan Harris](http://www.tristanharris.com/)
 - [Quit social media](https://www.youtube.com/watch?v=3E7hkPZ-HTk) - [Dr. Cal Newport](http://calnewport.com/)
