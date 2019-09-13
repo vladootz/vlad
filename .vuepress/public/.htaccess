@@ -34,4 +34,8 @@ ErrorDocument 404 /404.html
     RewriteCond %{HTTPS} !=on
     RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
+    # Redirect nastasiu.com to certain page
+    RewriteCond %{HTTP_HOST} ^nastasiu.com$
+    RewriteRule ^$ https://vlad.nastasiu.com/n.html [L,R=301]
+
 </IfModule>
