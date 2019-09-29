@@ -16,3 +16,24 @@ body h3 {
     font-size: 1.1em;
     font-weight: normal;
 }
+
+.page table {
+    width: 100%;
+}
+
+.page table th:first-child {
+    min-width: 200px;
+}
+
+@media screen and (max-width: 520px) {
+    .page table {
+        overflow: unset;
+    }
+    .page table td {
+        display: block;
+    }
+
+    .page table thead {
+        display: none;
+    }
+}
