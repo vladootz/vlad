@@ -20,3 +20,4 @@ devices you use are tools and you should treat them accordingly:
 - [Connected, but alone?](https://www.youtube.com/watch?v=t7Xr3AsBEK4) - [Sherry Turkle](https://sherryturkle.com/)
 - [Having Your Smartphone Nearby Takes a Toll on Your Thinking](https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking)
 - [Six years with a distraction free iphone](https://medium.com/s/story/six-years-with-a-distraction-free-iphone-8cf5eb4f97e3)
+- [Actualizator by DOR](https://us4.campaign-archive.com/home/?u=e0e3ba0b168a961b7b80c955e&id=49d62d00b3)
