@@ -8,20 +8,20 @@ Projects
 The work for these projects consisted of writing code: html, css, javascript and mostly php, as well as launching the site. For most of the projects the template has been coded from scratch, if not specified otherwise in the description.
 <br/>I also manage the hosting and maintenance work for some of these sites through [nsu.ro](https://nsu.ro).
 
-E-commerce                                                 | Description
-:---                                                       | :---
-[Cold Pressed Juicery](https://coldpressedjuicery.co/)     | Feature: cleanse product
-[Corinne Atelier](https://corinneatelier.ro)               | 3rd party integrations
-[Happy Friday](https://happyfriday.ro)                     | 3rd party template and integrations
-[The Edit](https://theedit.ro/)                            | Shopify template, custom development and tutorials
-
 Presentation                                               | Description
 :---                                                       | :---
-[CNDB](https://cndb.ro)                                    |
-[Image and Sound](https://imageandsound.ro)                |
+[CNDB](https://cndb.ro)                                    | Design by [D&A](http://danielandandrew.com/)
+[Image and Sound](https://imageandsound.ro)                | Design by [Radu Manelici](http://radum.ro/)
 [Institutul Prezentului](https://institutulprezentului.ro) | Feature: dropdown menu
 [Imagoro](https://imagoro.ro)                              | Image and data sync scripts
 [APPE](https://appe.ro/)                                   | Custom modules development and content management
+
+E-commerce                                                 | Description
+:---                                                       | :---
+[Cold Pressed Juicery](https://coldpressedjuicery.co/)     | Feature: cleanse product (design by [LOOT](https://weareloot.com))
+[Corinne Atelier](https://corinneatelier.ro)               | 3rd party integrations (design by [Max](https://ro.linkedin.com/in/max-turza-637879100))
+[Happy Friday](https://happyfriday.ro)                     | 3rd party template and integrations
+[The Edit](https://theedit.ro/)                            | Shopify template, custom development and tutorials
 
 ---
 
