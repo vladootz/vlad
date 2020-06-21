@@ -17,9 +17,9 @@ E-commerce                                                 | Description
 
 Presentation                                               | Description
 :---                                                       | :---
+[CNDB](https://cndb.ro)                                    |
+[Image and Sound](https://imageandsound.ro)                |
 [Institutul Prezentului](https://institutulprezentului.ro) | Feature: dropdown menu
-[Wine Drinkers UK](https://winedrinkersuk.co.uk/)          | Design and collaboration with [Toast Media](https://toastmedia.co.uk/)
-[Maison Daddoo](https://maisondadoo.ro/)                   | 
 [Imagoro](https://imagoro.ro)                              | Image and data sync scripts
 [APPE](https://appe.ro/)                                   | Custom modules development and content management
 
