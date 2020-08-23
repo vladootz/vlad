@@ -8,7 +8,6 @@ My name is Vlad and I write stuff, mostly code.
 
 What am I doing right **now**:
 
-- Found a balance between me time and work time; tip: it's up to you, you know yourself best and only you can figure yourself out
-- Started new projects in collaboration with [Radu](https://www.radum.ro/) and [D&A](http://danielandandrew.com/)
-- Closing in on launching a couple of projects done in collaboration with old and new partners
-- [Reading](https://goodreads.com/alltakestime), [listening](https://open.spotify.com/show/1VyK52NSZHaDKeMJzT4TSM?si=5hVPWHGmQqu0nGOVHe_CjQ)
+- On the final stretch to launch some of the biggest projects of this year, waiting for a well-deserved holiday
+- Reading Asimov's Foundation series (Foundation's Edge) and some Nora Iuga books
+- Writing lots of sort-of-poetry lyrics and working on a way to share them outside [instagram](https://www.instagram.com/stories/highlights/17905292686480013/)

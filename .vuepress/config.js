@@ -4,7 +4,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'vlad', link: '/' },
-      { text: 'works', link: '/projects' },
+      { text: 'works', link: 'https://nsu.ro/other-services/' },
       { text: 'writes', link: '/article/' },
       { text: 'walks to', link: '/event/' }
     ]
