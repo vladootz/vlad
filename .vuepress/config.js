@@ -6,7 +6,7 @@ module.exports = {
       { text: 'vlad', link: '/' },
       { text: 'works', link: 'https://nsu.ro/other-services/' },
       { text: 'writes', link: '/article/' },
-      { text: 'walks to', link: '/event/' }
+      { text: 'secret', link: '/poe/' }
     ]
   }
 }

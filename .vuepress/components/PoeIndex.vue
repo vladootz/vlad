@@ -14,8 +14,8 @@ export default {
     computed: {
         posts() {
             return this.$site.pages
-                .filter(x => x.path.startsWith('/event/') && !x.frontmatter.event_index)
-                .sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
+                .filter(x => x.path.startsWith('/poe/') && !x.frontmatter.poe_index)
+                .sort((a, b) => { return new Date(b.frontmatter.date) - new Date(a.frontmatter.date) });
         }
     }
 }
