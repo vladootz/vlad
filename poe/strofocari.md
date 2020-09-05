@@ -298,10 +298,10 @@ ambrozia
 
 ### XXV
 
-lumina te lovește, altfel ești invizibil  
-ochiului îi lipsește culoarea  
-cum ar fi să vezi alb-negru  
-ca vânătaia formată în urma pumnului.  
-umbra pumnului e tot un pumn  
-câtă violență, atâta renaștere  
-și la câtă muzică clasică, atâtea manele.  
+lumina te lovește, altfel ești invizibil
+ochiului îi lipsește culoarea
+cum ar fi să vezi alb-negru
+ca vânătaia formată în urma pumnului.
+umbra pumnului e tot un pumn
+câtă violență, atâta renaștere
+și la câtă muzică clasică, atâtea manele.

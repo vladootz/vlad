@@ -17,6 +17,6 @@
   },
   "homepage": "https://vlad.nastasiu.com",
   "dependencies": {
-    "vuepress": "^0.8.4"
+    "vuepress": "^1.5.4"
   }
 }
