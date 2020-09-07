@@ -305,3 +305,17 @@ ca vânătaia formată în urma pumnului.
 umbra pumnului e tot un pumn  
 câtă violență, atâta renaștere  
 și la câtă muzică clasică, atâtea manele.
+
+
+### XXVI
+
+Te uiți în oglindă  
+și vezi fața trasă  
+de toate gândurile  
+în toate direcțiile;  
+pe contrasens,  
+faza lungă  
+intermitentă  
+doare mai tare  
+ca fazele lunii  
+în care te sufoci.
