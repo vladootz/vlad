@@ -1,10 +1,10 @@
 ---
-title: Strofocări
+title: STRO FOCARE
 date: 2020-07-26
 data: iulie 2020+
 ---
 
-## stro focare
+## STRO FOCARE
 
 ### I
 

@@ -1,5 +1,6 @@
 ---
 title: NOtifications
+date: 2010-01-02
 ---
 
 ## NOtifications

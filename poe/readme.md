@@ -1,8 +1,8 @@
 ---
-poeIndex: true
+poe_index: true
 ---
 
-## Zic cu cuvinte
+## Scurta viață a lui Marian Norescu
 
 &nbsp;
 
