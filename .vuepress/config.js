@@ -1,12 +1,13 @@
 module.exports = {
   title: 'all takes time ← and',
-  description: ' ',
+  description: '',
   themeConfig: {
+    search: false,
     nav: [
       { text: 'vlad', link: '/' },
-      { text: 'works', link: 'https://nsu.ro/other-services/' },
       { text: 'writes', link: '/article/' },
-      { text: 'secret', link: '/poe/' }
+      { text: 'poe', link: '/poe/' },
+      { text: 'works', link: 'https://nsu.ro/other-services/' },
     ]
   }
 }
