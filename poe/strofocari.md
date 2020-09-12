@@ -321,6 +321,15 @@ ca fazele lunii
 în care te sufoci.
 
 
+### XXVII
+
+Peticim un oraș mort  
+cu bormașini și drujbe  
+așteptând excavatoarele  
+să dea la o parte maldărul  
+de oameni desumflați
+
+
 ### XXVIII
 
 Și, fumezi?  
