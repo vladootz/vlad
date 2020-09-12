@@ -340,7 +340,7 @@ să iau praful din colțuri
 mi-ar prii, probabil  
 într-o cameră de sparți:  
 toți sunt praf și pulbere.  
-Da, încă sunt piroman,  
+Da, sunt încă piroman,  
 dar s-a ars deja televizorul,  
 o ard doar cu privirea,  
 și vizorul are aceeași  
