@@ -319,3 +319,25 @@ intermitentă
 doare mai tare  
 ca fazele lunii  
 în care te sufoci.
+
+
+### XXVIII
+
+Și, fumezi?  
+Ah, am vicii mai murdare  
+îmi place să fac curat,  
+să iau praful din colțuri  
+și să-l pun în cercuri,  
+mi-ar prii, probabil  
+într-o cameră de sparți:  
+toți sunt praf și pulbere.  
+Da, încă sunt piroman,  
+dar s-a ars deja televizorul,  
+o ard doar cu privirea,  
+și vizorul are aceeași  
+curbură a imaginii  
+vezi distorsionat  
+oricum ai fi:  
+cu sau fără ochelari,  
+iar cu cei potcoviți  
+ești chior de somn.
