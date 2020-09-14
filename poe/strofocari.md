@@ -326,7 +326,7 @@ ca fazele lunii
 Peticim un oraș mort  
 cu bormașini și drujbe  
 așteptând excavatoarele  
-să dea la o parte maldărul  
+să dea la o parte maldăre   
 de oameni desumflați
 
 
@@ -350,3 +350,24 @@ oricum ai fi:
 cu sau fără ochelari,  
 iar cu cei potcoviți  
 ești chior de somn.
+
+
+### XXIX
+
+Oricine poate face un tablou  
+scuipă-ți depresia pe pânză  
+așează coastele în forma inimii  
+acoperă totul cu lac înghețat  
+și ridică-te la cer.
+
+Oricine poate sculpta în orice  
+pune dala, apucă ciocanul  
+și dă ca și cum ai încerca  
+să desprinzi gaura neagră  
+de existența ta.  
+
+Oricine poate scrie o poezie  
+aruncă-te în fața metroului  
+să vezi cât de extern  
+îți poate deveni  
+infernul.
