@@ -16,6 +16,7 @@ A list of resources to remind yourself that the devices you use are tools and yo
 - [Quit social media](https://www.youtube.com/watch?v=3E7hkPZ-HTk) - [Dr. Cal Newport](http://calnewport.com/)
 - [The Real Effects of Social Media & Cell Phones](https://www.youtube.com/watch?v=sMqkItnUTVg) - [Simon Sinek](https://startwithwhy.com/)
 - [Connected, but alone?](https://www.youtube.com/watch?v=t7Xr3AsBEK4) - [Sherry Turkle](https://sherryturkle.com/)
+- [The Social Dilemma](https://www.thesocialdilemma.com/) - Netflix
 
 ### Articles
 
