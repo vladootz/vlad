@@ -371,3 +371,19 @@ aruncă-te în fața metroului
 să vezi cât de extern  
 îți poate deveni  
 infernul.
+
+
+### XXX
+
+consistența este tăria lucrului  
+sau moliciunea lui  
+ca tăria alcoolului  
+apoi moliciunea ta;  
+te faci praful de pe sticla de bere  
+și n-are cine să te măture,  
+să te ducă acasă.
+
+oare cu cât caracterul  
+este mai tare  
+este cu atât mai afectat  
+la ficat?
