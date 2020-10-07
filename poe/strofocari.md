@@ -387,3 +387,60 @@ oare cu cât caracterul
 este mai tare  
 este cu atât mai afectat  
 la ficat?
+
+
+### XXXI
+
+Acuratețea vorbelor din penitenciare  
+e neștiută dacă nu faci rău sau dacă  
+nu crede cineva că ești în stare,  
+dacă nu ai fost acolo nu ai de unde ști  
+și după ce ieși nu poți povesti.  
+Ce mai, Vegas.
+
+
+### XXXII
+
+Au făcut bulevarde smart  
+dar oamenii, tot proști  
+aleargă prin culoarele pentru bețe:  
+cine-l are mai scurt, moare!  
+deschide mare: AAAAAA  
+în gură nu ai nimic decât  
+un albastru strigător la cer.
+
+
+### XXXIII
+
+Am drept prieten o muscă  
+strâmbă  
+ce stă și se uită la praf  
+îmi zice să-l șterg  
+doarme câșă din cauza lui  
+dar n-am ștergătoare.  
+Cauza ta care e?
+
+
+### XXXIV
+
+Mă prind greu  
+ca laptele la căldură  
+îmi ia și o zi  
+să râd la o glumă;  
+uneori îmi ia și un an  
+să descompun  
+tot ce ai adunat într-o zi  
+în ghiozdan.
+
+
+### XXXV
+
+timpul tău  
+e drogul meu  
+pasul tău  
+călcâiul meu  
+ochiul tău  
+e dumnezeu  
+vocea ta  
+moartea mea
+
