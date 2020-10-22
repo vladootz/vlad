@@ -444,3 +444,13 @@ e dumnezeu
 vocea ta  
 moartea mea
 
+
+### XXXVI
+
+Am două chiftele pe masă  
+care nu mă lasă  
+să-mi văd de viață  
+iar cafeaua  
+este prea amară  
+în această  
+dimineață.
