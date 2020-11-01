@@ -454,3 +454,64 @@ iar cafeaua
 este prea amară  
 în această  
 dimineață.
+
+### XXXVII
+
+cheamă puiul la tine  
+pe motor să vină  
+să fie cină
+
+i-ai mirosit cu adevărat oasele?  
+ai văzut oul din care a ieșit?  
+troaca în care a trăit?  
+mașinăria care l-a sfredelit?
+
+cine e mai animal?
+
+
+### XXXVIII
+
+emisferele despicate  
+ne mor pe capete  
+ne mor de cancere  
+ca nucile-n perete
+
+minți uitate pe bordură  
+ne mor de la căldură  
+ne mor și duc cu ele  
+un fluviu de cultură
+
+
+### XXXIX
+
+ne-am pierdut simțirile,  
+simțurile,  
+trăim trăirile la indigo  
+le copiem la xerox  
+din reviste și IG  
+s-avem o viață - nu știm ce e.
+
+totul e la foc automat  
+ca la tonomat  
+prietenii sunt canalele  
+la care dăm tap, tap  
+pe telecomanda  
+ce ne lasă fără vedere  
+periferală,  
+gândirea-i la periferie  
+unde-am lăsat creierele  
+să expire.
+
+
+### XL
+
+am simptom  
+un epitom:  
+am ajuns din om  
+neom
+
+viața-i mare încercare:  
+te trezești de dimineață  
+te speli cu rachiu pe față,  
+dai cu capul de faianță,  
+vezi în ceață.
