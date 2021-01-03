@@ -2,15 +2,14 @@
 title: Vlad Nastasiu
 ---
 
-## Hello, ¡Hola, Salut
+## Salut!
 
 My name is Vlad and I write stuff, mostly code.
 
 What am I doing right **now**:
 
-- On the final stretch to launch the biggest project of the year, [sneak peek](https://acacia.events)
-- Had a great (and intense) time with Tehnic Media on their [Demo Metal online event](https://demometal.ro/virtual/final-demo-metal-virtual-2020/)
-- Launched some big projects with [D&A](https://danielandandrew.com/) and [Toast Media](https://toastmedia.co.uk/) - links are [here](https://nsu.ro/other-services/)
-- (Still) Planning a well-deserved staycation -\_- (Christmas maybe? Fingers crossed)
-- Reading Hawking's A Brief History of Time
-- Writing some more [poe stuff](/poe/)
+- Scheduling projects for the following weeks and months
+- Getting ready for a big launch at the end of January with the [Acacia](https://acacia.events/) platform
+- Had a few days of relaxation between Christmas and the first monday of [12021](https://shop-eu.kurzgesagt.org/products/12-021-human-era-calendar?variant=33326590263384)
+- Reading Asimov's Foundation series and Dostoievski's Demons
+- Keeping an exercise routine started in October, building other routines
