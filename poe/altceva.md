@@ -23,36 +23,36 @@ Timpul e rece, și trece mai degrabă prin tine decât pe lângă, dar așa ai v
 
 ### Al doilea obosit
 
-Am obosit
-De litere, de enter,
-De tab-ul următor,
+Am obosit  
+De litere, de enter,  
+De tab-ul următor,  
 De align-to-center.
 
-De toate piesele
-Cu inimă
-De căștile din care
+De toate piesele  
+Cu inimă  
+De căștile din care  
 Curge funingănă.  
 
-De dialogul lor,
-De piesele de șah,
-De întoarcerea în timp,
+De dialogul lor,  
+De piesele de șah,  
+De întoarcerea în timp,  
 De swipe, când left, când right.
 
-Și am mai obosit
-De trezitul (nu prea) dimineața,
-De aceeași cafea din același ibric
+Și am mai obosit  
+De trezitul (nu prea) dimineața,  
+De aceeași cafea din același ibric  
 Și aceeași apă cu care-mi spăl fața.
 
-De întins rufele,
-De făcut patul,
-De spălat vasele,
+De întins rufele,  
+De făcut patul,  
+De spălat vasele,  
 De șters praful.
 
-De inspirat,
-De Expirat,
-De viața asta care seamănă
+De inspirat,  
+De Expirat,  
+De viața asta care seamănă  
 Cu un escape room ale cărui indicii le-am uitat. (/Cu un mare căcat.)
 
-Dar măcar am ceva:
+Dar măcar am ceva:  
 Am obosit.
 
