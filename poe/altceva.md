@@ -51,7 +51,7 @@ De șters praful.
 De inspirat,  
 De Expirat,  
 De viața asta care seamănă  
-Cu un escape room ale cărui indicii le-am uitat. (/Cu un mare căcat.)
+Cu un escape room ale cărui indicii le-am uitat.
 
 Dar măcar am ceva:  
 Am obosit.
