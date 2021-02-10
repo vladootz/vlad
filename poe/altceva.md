@@ -19,3 +19,40 @@ Te așezi în genunchi – nu, nu te gândi la prostii, nici un dumnezeu n-ar av
 În cele din urmă îi crești singură, îi hrănești pe toți cu aceeași lingură, în care torni același lapte stătut de o săptămână (sau o lună, sau un veac) la rădăcinile aripilor tale scoapte.
 
 Timpul e rece, și trece mai degrabă prin tine decât pe lângă, dar așa ai vrea să te ocolească, ca orice bărbat care ți-a aruncat o privire nefirească. Te seamănă cu flori albe-n păr și-ți scoate circumvoluțiunile la suprafață.
+
+
+### Al doilea obosit
+
+Am obosit
+De litere, de enter,
+De tab-ul următor,
+De align-to-center.
+
+De toate piesele
+Cu inimă
+De căștile din care
+Curge funingănă.  
+
+De dialogul lor,
+De piesele de șah,
+De întoarcerea în timp,
+De swipe, când left, când right.
+
+Și am mai obosit
+De trezitul (nu prea) dimineața,
+De aceeași cafea din același ibric
+Și aceeași apă cu care-mi spăl fața.
+
+De întins rufele,
+De făcut patul,
+De spălat vasele,
+De șters praful.
+
+De inspirat,
+De Expirat,
+De viața asta care seamănă
+Cu un escape room ale cărui indicii le-am uitat. (/Cu un mare căcat.)
+
+Dar măcar am ceva:
+Am obosit.
+
