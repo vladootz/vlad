@@ -23,70 +23,72 @@ Timpul e rece, și trece mai degrabă prin tine decât pe lângă, dar așa ai v
 
 ### Cangrenă
 
-Indolența din camerele inimii  
-se frământă în moarte  
-și urlă din adâncuri,  
+Indolența din camerele inimii\
+se frământă în moarte\
+și urlă din adâncuri,\
 întorcând spre tine ochiul putred.
 
-Sunetul ți-atârnă pe articulații,  
-le desface ca o sticlă spartă  
-încerci un pas spre-alaltăieri  
+Sunetul ți-atârnă pe articulații,\
+le desface ca o sticlă spartă\
+încerci un pas spre-alaltăieri\
 și te prelingi pe os, prin crăpături.
 
-Pare-a fi cald unde-ai ajuns  
-auzi cum bubuie pereții,  
-deschizi ce crezi că-ți erau ochi  
+Pare-a fi cald unde-ai ajuns\
+auzi cum bubuie pereții,\
+deschizi ce crezi că-ți erau ochi\
 în jur e roșu, unul putred.
 
 
 ### Liniște
 
-E atât de liniște că expirația pe nări sună ca un ger cumplit  
-(pe nări dau aer care șuieră când se atinge de părul nazal)  
-E atât de liniște că toate culorile din cameră se contopesc  
-(mă rog, nici albastrul peretelui nu e prea diferit de draperii)  
-E atât de liniște că se aud radiourile vecinilor prin pereți  
-(oare vecinii mai ascultă radio sau e vreun clip pe youtube?)  
-E atât de liniște că simt gălăgia mare cum paște după colț  
-(gălăgia e o vacă, acum uriașă, ce răgea tare când era mică)  
-E atât de liniște că mă doare degetul cât scriu despre liniștea asta  
-(dar dacă scriu despre neliniști probabil amorțesc cu totul)  
-E atât de liniște că probabil ar trebui să închei totul aici  
+E atât de liniște că expirația pe nări sună ca un ger cumplit\
+(pe nări dau aer care șuieră când se atinge de părul nazal)\
+E atât de liniște că toate culorile din cameră se contopesc\
+(mă rog, nici albastrul peretelui nu e prea diferit de draperii)\
+E atât de liniște că se aud radiourile vecinilor prin pereți\
+(oare vecinii mai ascultă radio sau e vreun clip pe youtube?)\
+E atât de liniște că simt gălăgia mare cum paște după colț\
+(gălăgia e o vacă, acum uriașă, ce răgea tare când era mică)\
+E atât de liniște că mă doare degetul cât scriu despre liniștea asta\
+(dar dacă scriu despre neliniști probabil amorțesc cu totul)\
+E atât de liniște că probabil ar trebui să închei totul aici\
 (nu chiar totul, totul, voi veți rămâne, trebuie a citi cineva)
 
 
 ### Al doilea obosit
 
-Am obosit  
-De litere, de enter,  
-De tab-ul următor,  
+Am obosit\
+De litere, de enter,\
+De tab-ul următor,\
 De align-to-center.
 
-De toate piesele  
-Cu inimă  
-De căștile din care  
-Curge funingănă.  
+De toate piesele\
+Cu inimă\
+De căștile din care\
+Curge funingănă.\
 
-De dialogul lor,  
-De piesele de șah,  
-De întoarcerea în timp,  
+De dialogul lor,\
+De piesele de șah,\
+De întoarcerea în timp,\
 De swipe, când left, când right.
 
-Și am mai obosit  
-De trezitul (nu prea) dimineața,  
-De aceeași cafea din același ibric  
+Și am mai obosit\
+De trezitul (nu prea) dimineața,\
+De aceeași cafea din același ibric\
 Și aceeași apă cu care-mi spăl fața.
 
-De întins rufele,  
-De făcut patul,  
-De spălat vasele,  
+De întins rufele,\
+De făcut patul,\
+De spălat vasele,\
 De șters praful.
 
-De inspirat,  
-De Expirat,  
-De viața asta care seamănă  
+De inspirat,\
+De Expirat,\
+De viața asta care seamănă\
 Cu un escape room ale cărui indicii le-am uitat.
 
-Dar măcar am ceva:  
+Dar măcar am ceva:\
 Am obosit.
 
+\
+<sub><sup>Copyright &copy; 2019-2021 Vlad Nastasiu</sup></sub>

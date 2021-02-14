@@ -4,6 +4,8 @@ poe_index: true
 
 ## Scurta viață a lui Marian Norescu
 
-&nbsp;
+\
+<PoeIndex />
 
-<poeIndex />
+\
+<sub><sup>Copyright &copy; 2019-2021 Vlad Nastasiu</sup></sub>
