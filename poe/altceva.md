@@ -65,7 +65,7 @@ De align-to-center.
 De toate piesele\
 Cu inimă\
 De căștile din care\
-Curge funingănă.\
+Curge funingănă.
 
 De dialogul lor,\
 De piesele de șah,\
@@ -89,6 +89,28 @@ Cu un escape room ale cărui indicii le-am uitat.
 
 Dar măcar am ceva:\
 Am obosit.
+
+### Expunere
+
+O dâră de lună\
+Nebună\
+Suspină\
+Cu nuferi în ochi,
+
+Tu suferi de bună,\
+Tulpina\
+Se-nclină\
+Cu fructe de gât.
+
+Abateri lucide\
+Te-aduc\
+Imediat\
+Pe buza din lut,
+
+Îți scuturi trăirea,\
+Și cușca\
+De mare,\
+De nisip din trecut.
 
 \
 <sub><sup>Copyright &copy; 2019-2021 Vlad Nastasiu</sup></sub>

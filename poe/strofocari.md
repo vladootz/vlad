@@ -364,7 +364,7 @@ Oricine poate sculpta în orice\
 pune dala, apucă ciocanul\
 și dă ca și cum ai încerca\
 să desprinzi gaura neagră\
-de existența ta.\
+de existența ta.
 
 Oricine poate scrie o poezie\
 aruncă-te în fața metroului\
