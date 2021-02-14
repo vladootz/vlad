@@ -4,7 +4,8 @@
   "description": "Vlad's personal website",
   "main": "index.js",
   "scripts": {
-    "build": "vuepress build"
+    "build": "vuepress build",
+    "dev": "vuepress dev"
   },
   "repository": {
     "type": "git",
