@@ -516,5 +516,23 @@ te speli cu rachiu pe față,\
 dai cu capul de faianță,\
 vezi în ceață.
 
+
+### XLI
+
+În pandemiei\
+Speli aceeași tigaie\
+De o mie de ori\
+Și rămâne aceeași tigaie\
+În care spargi același ou\
+Presari aceeași sare\
+Îl pui în aceeași farfurie\
+Și pare că nimic nu e nou.
+
+Doar tu ești alta\
+Când îți dai jos\
+Câte un strat de piele,\
+Câte un smoc de păr,\
+Unghiile, una câte una.
+
 \
 <sub><sup>Copyright &copy; 2019-2021 Vlad Nastasiu</sup></sub>
