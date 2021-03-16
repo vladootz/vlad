@@ -519,7 +519,7 @@ vezi în ceață.
 
 ### XLI
 
-În pandemiei\
+În pandemie\
 Speli aceeași tigaie\
 De o mie de ori\
 Și rămâne aceeași tigaie\
