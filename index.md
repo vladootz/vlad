@@ -8,7 +8,7 @@ My name is Vlad and I write stuff, mostly ~~code~~ emails 😣.
 
 What am I doing right **now**:
 
-- Travelling around Europe with a backpack, staying at friends' places: currently in Bucharest, previously in Netherlands, Belgium
+- Travelling around Europe with a backpack, staying at friends' places: currently in Madrid, previously in Amsterdam and Bruxelles
 - Reading about crypto and making wedding presents in altcoins
 - Adjusting to the work and travel routine, some deadlines might be not met
 
