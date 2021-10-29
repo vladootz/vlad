@@ -8,8 +8,8 @@ My name is Vlad and I write stuff, mostly ~~code~~ emails 😣.
 
 What am I doing right **now**:
 
-- Travelling around Europe with a backpack, staying at friends' places: currently in Madrid, previously in Amsterdam and Bruxelles
-- Reading about crypto and making wedding presents in altcoins
-- Adjusting to the work and travel routine, some deadlines might be not met
+- Travelling around Europe with a backpack, staying at friends' places: currently in Barcelona, previously in Amsterdam, Bruxelles and Madrid
+- Meeting friends and deadlines
+- Trying to figure out how to remove TikTok earworms, [any ideas?](mailto:vlad@nsu.ro?subject=About%20how%20to%20remove%20TikTok%20earworms...)
 
-[How are you](mailto:vlad@wow.com?subject=Hey%2C%20I'm%20doing...)?
+[How are you](mailto:vlad@nsu.ro?subject=Hey%2C%20I'm%20doing...)?
