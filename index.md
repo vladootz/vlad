@@ -1,5 +1,5 @@
 ---
-title: Vlad Nastasiu
+title: Vlad
 ---
 
 ## Salut!

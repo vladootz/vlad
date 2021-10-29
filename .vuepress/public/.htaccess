@@ -36,10 +36,10 @@ ErrorDocument 404 /404.html
 
     # Redirect nastasiu.com to certain page
     RewriteCond %{HTTP_HOST} ^nastasiu.com$
-    RewriteRule ^$ https://vlad.nastasiu.com/n.html [L,R=301]
+    RewriteRule ^$ https://nvm.pt/n.html [L,R=301]
 
     # Redirect www.nastasiu.com to certain page
     RewriteCond %{HTTP_HOST} ^www.nastasiu.com$
-    RewriteRule ^$ https://vlad.nastasiu.com/n.html [L,R=301]
+    RewriteRule ^$ https://nvm.pt/n.html [L,R=301]
 
 </IfModule>

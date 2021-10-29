@@ -1,5 +1,5 @@
 {
-  "name": "vlad.nastasiu.com",
+  "name": "nvm.pt",
   "version": "1.0.0",
   "description": "Vlad's personal website",
   "main": "index.js",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/vladootz/vlad/issues"
   },
-  "homepage": "https://vlad.nastasiu.com",
+  "homepage": "https://nvm.pt",
   "dependencies": {
     "vuepress": "^1.6.0"
   }
