@@ -4,12 +4,12 @@ title: Vlad
 
 ## Salut!
 
-My name is Vlad and I write stuff, mostly ~~code~~ emails 😣.
+My name is Vlad and I write stuff, mostly ~~code~~ briefs 😣.
 
 What am I doing right **now**:
 
-- Travelling around Europe with a backpack, staying at friends' places: currently in Barcelona, previously in Amsterdam, Bruxelles and Madrid
-- Meeting friends and deadlines
-- Trying to figure out how to remove TikTok earworms, [any ideas?](mailto:vlad@nsu.ro?subject=About%20how%20to%20remove%20TikTok%20earworms...)
+- Getting ready to settle for a couple of months in Lisbon, Portugal; backpacking since august 2021, staying at friends' places in Amsterdam (NL), Bruxelles (BE), Madrid, Barcelona (ES), Alcabideche (PT)
+- Making new friends and going to meetups in Lisbon
+- Working on a get-in-shape routine 
 
 [How are you](mailto:vlad@nsu.ro?subject=Hey%2C%20I'm%20doing...)?
