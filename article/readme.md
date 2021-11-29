@@ -7,4 +7,4 @@ article_index: true
 \
 <ArticleIndex />
 
-## [Archive ➚](https://nvm.pt/archive/)
+## [Archive ➚](https://vlad.ro/archive/)
