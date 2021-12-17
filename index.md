@@ -4,12 +4,12 @@ title: Vlad
 
 ## Salut!
 
-My name is Vlad and I write stuff, mostly ~~code~~ briefs 😣.
+My name is Vlad and I write stuff, mostly code.
 
 What am I doing right **now**:
 
-- Getting ready to settle for a couple of months in Lisbon, Portugal; backpacking since august 2021, staying at friends' places in Amsterdam (NL), Bruxelles (BE), Madrid, Barcelona (ES), Alcabideche (PT)
-- Making new friends and going to meetups in Lisbon
-- Working on a get-in-shape routine 
+- Learning to say 'thank you' and 'sorry' in portuguese, next step will be learning to order food
+- Wrapping up the projects for this year
+- Recovering from a medium cold
 
 [How are you](mailto:vlad@nsu.ro?subject=Hey%2C%20I'm%20doing...)?
