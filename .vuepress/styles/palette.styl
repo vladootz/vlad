@@ -1,5 +1,5 @@
 // colors
-$accentColor = #45966e
+$accentColor = #128a7c
 $textColor = #CCC
 $borderColor = #111
 $codeBgColor = #555
@@ -9,7 +9,8 @@ $arrowBgColor = #333
 $contentWidth = 720px
 
 html, body {
-    background-color: #222222;
+    background: radial-gradient(#252528, #0b0b0f);
+    background-attachment: fixed;
 }
 
 body {
@@ -19,8 +20,15 @@ body {
     scrollbar-color: dark;
 }
 
+.nav-item > a:not(.external):hover,
+.theme-default-content:not(.custom) a:hover {
+    text-decoration: none;
+    border-bottom: 0;
+}
+
 body h2 {
     font-size: 1.75rem;
+    border-bottom-color: #818ea3;
 }
 
 body h3 {
@@ -28,9 +36,13 @@ body h3 {
     font-weight: normal;
 }
 
+.navbar {
+    border-bottom: 0;
+}
+
 .navbar .links,
 .navbar {
-    background-color: #000;
+    background-color: transparent;
 }
 
 .navbar .links {
