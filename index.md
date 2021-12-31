@@ -14,4 +14,4 @@ What am I doing right **now**:
 - Trying out rope jumping and yoga
 - Being grateful for, well, mostly everything
 
-[How are you](mailto:vlad@nsu.ro?subject=Hey%2C%20I am%20...)?
+[How are you](mailto:vlad@nsu.ro?subject=Hey%2C%20I%20am%20...)?
