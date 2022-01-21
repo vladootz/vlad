@@ -38,6 +38,8 @@ ErrorDocument 404 /404.html
     RewriteCond %{HTTP_HOST} ^vlad.nastasiu.com$ [OR]
     RewriteCond %{HTTP_HOST} ^nvm.pt$ [OR]
     RewriteCond %{HTTP_HOST} ^www.nvm.pt$ [OR]
+    RewriteCond %{HTTP_HOST} ^nastasiu.com$ [OR]
+    RewriteCond %{HTTP_HOST} ^www.nastasiu.com$ [OR]
     RewriteCond %{HTTP_HOST} ^www.vlad.ro$
     RewriteRule (.*)$ https://vlad.ro/$1 [R=301,L]
 
