@@ -7,4 +7,5 @@ article_index: true
 \
 <ArticleIndex />
 
+## [Tocănița de internet ➚](https://tocanita.substack.com/) 
 ## [Archive ➚](https://vlad.ro/archive/)
