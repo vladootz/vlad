@@ -2,7 +2,7 @@
 article_index: true
 ---
 
-## Stuff I wrote and resources I gathered
+## Stuff I write and resources I gather
 
 \
 <ArticleIndex />

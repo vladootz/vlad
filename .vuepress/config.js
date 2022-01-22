@@ -8,11 +8,11 @@ module.exports = {
     search: false,
     nav: [
       { text: 'now', link: '/' },
-      { text: 'stuff', link: '/article/' },
+      { text: 'then', link: '/then/' },
+      { text: 'words', link: '/article/' },
       { text: 'poe', link: '/poe/' },
       { text: 'twitter', link: 'https://twitter.com/owltakestime' },
       { text: 'tumblr', link: 'https://owltakestime.tumblr.com' },
-      { text: 'works', link: 'https://nsu.ro/other-services/' },
     ]
   }
 }
