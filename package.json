@@ -6,7 +6,7 @@
   "scripts": {
     "build": "vuepress build",
     "dev": "vuepress dev",
-    "deploy": "cd .vuepress/dist && git add --all && git commit -m 'Push live' && git push origin gh-pages"
+    "dploy": "cd .vuepress/dist && git add --all && git commit -m 'Push live' && git push origin gh-pages"
   },
   "repository": {
     "type": "git",
