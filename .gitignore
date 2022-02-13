@@ -1,6 +1,6 @@
-archive.vlad.ro
+/archive.vlad.ro
+/.vuepress/dist/
 node_modules
 *.sh
-.vuepress/dist/
 .DS_Store
 *.gz
