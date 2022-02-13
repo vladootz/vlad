@@ -1,4 +1,5 @@
 node_modules
 *.sh
+.vuepress/dist
 .DS_Store
 *.gz
