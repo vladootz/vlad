@@ -1,6 +1,7 @@
 ---
 title: Do now
 date: 2018-06-13
+data: June 13th 2018
 ---
 
 ## Do now

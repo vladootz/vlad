@@ -1,6 +1,7 @@
 ---
 title: NOtifications
-date: 2010-01-02
+date: 2018-06-18
+data: June 18th 2018
 ---
 
 ## NOtifications
