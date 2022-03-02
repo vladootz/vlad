@@ -9,13 +9,24 @@ I write stuff, mostly code.
 ### What am I doing right **now**:
 
 <sub><sup>This is going to be a sort of travel log so you know where I'm at</sup></sub>
-- 21.02 09:00 - driving from Piatra Neamț to Oradea with a pit stop in Cluj, 462 km, estimated time: 9 hours, actual time: 8 hours, gas price: €1.55 / L, road tax: €3 / 7 days
-- 22.02 10:45 driving from Oradea to Balatonfenyves (Hungary), 420 km estimated time: 5 hours, border time not included, actual time: 4.5 hours, border time included (10 minutes), gas price: €1.35 /L, road tax: €12 / 10 days
-- 23.02 11:00 driving from Balatonfenyves (Hungary) to Padova (Italy) through Slovenia, estimated time: 6 hours, actual time: 6 hours including a 30' break and a slovenian snack, gas price: €1.49 / L, road tax: Slovenia: €15 / 7 days, Italy: €10 - 1 highway toll 
-- 24.02 10:30 driving from Padova (Italy) to Pont du Loup (France), estimated time: 7 hours, actual time: 7.5 hours (a lot of construction on the road), gas price: €2.24 / L (highway station, poor choice), road tax: Italy: €54 - 3 highway tolls, France: €2 - 2 highway tolls
-- 25.02 10:00 driving from Pont du Loup (France) to Figueres (Spain), estimated time: 5.5 hours, actual time: 7 hours (including a 1.5 hour break), gas price: €1.53 / L, road tax: France: €29 - 3 highway tolls
-- 26.02 resting in Figueres, visiting Dalí Theatre-Museum
-- 27.02 09:30 driving from Figueres (Spain) to Madrid, estimated time: 8 hours
+- 20.02 09:00 - driving from Piatra Neamț to Oradea with a pit stop in Cluj, 462 km, estimated time: 9 hours, actual time: 8 hours, gas price: €1.55 / L, road tax: €3 / 7 days
+- 21.02 10:45 driving from Oradea to Balatonfenyves (Hungary), 420 km estimated time: 5 hours, border time not included, actual time: 4.5 hours, border time included (10 minutes), gas price: €1.35 /L, road tax: €12 / 10 days
+- 22.02 11:00 driving from Balatonfenyves (Hungary) to Padova (Italy) through Slovenia, estimated time: 6 hours, actual time: 6 hours including a 30' break and a slovenian snack, gas price: €1.49 / L, road tax: Slovenia: €15 / 7 days, Italy: €10 - 1 highway toll 
+- 23.02 10:30 driving from Padova (Italy) to Pont du Loup (France), estimated time: 7 hours, actual time: 7.5 hours (a lot of construction on the road), gas price: €2.24 / L (highway station, poor choice), road tax: Italy: €54 - 3 highway tolls, France: €2 - 2 highway tolls
+- 24.02 10:00 driving from Pont du Loup (France) to Figueres (Spain), estimated time: 5.5 hours, actual time: 7 hours (including a 1.5 hour break), gas price: €1.53 / L, road tax: France: €29 - 3 highway tolls
+- 25.02 resting in Figueres, visiting Dalí Theatre-Museum
+- 26.02 09:30 driving from Figueres (Spain) to Madrid, estimated time (did not make it to Madrid): 8 hours, actual time: Figueres - Guadalajara: 7 hours (including 30 minutes break), gas price: €1.64 / L, road tax: €6
+- 27.02 10:30 driving from Guadalajara to Madrid, time: 1 hour, rest of the day resting in Madrid, celebrating friends
+- 28.02 11:30 driving from Madrid to Lisbon (Portugal), time: 6.5 hours, gas price: €1.68 / L in Madrid, €1.95 / L in Portugal, road tax: €22 (€17 in Spain, €5 in Lisbon). Destination reached.
+
+Some thoughts after 4100km in 9 days (driving 6-7 hours per day, except days 6 and 8):
+- Slovenia has the roads with the best views
+- If an event (cough, cough, Carnaval) affects your schedule in any way, there is definitely a reason for it - I was unable to book a hotel in the center of Madrid due to high demand, but later realised I would have been unable to drive my car there, in the low emissions zone
+- Best gas prices are in small cities and definitely not on italian highways
+- It's better to get a hotel or airbnb further from the center but with parking than to struggle finding parking spots, moreso if you have a lot of stuff in the car
+- Spain is bigger than what it looks like on the map
+- A8 in France, right after entering from Italy has the smoothest asphalt ever
+
 
 [How are you](mailto:vlad@nsu.ro?subject=Hey%2C%20I%20am%20...)?
 
