@@ -8,7 +8,8 @@ I write stuff, mostly code.
 
 ### What am I doing right **now**:
 
-- After I filled the first two weeks of March with mind battles against myself, during which I neglected my needs of rest, eat and the work schedule, I am taking a break from non essential tasks and working on getting back on track
+- Got a coworking membership at Spaces, first week looks promising
+- Read a new article on [web3](/article/web3.html) by [Scott Galloway](https://www.profgalloway.com/web3/)
 
 [How are you](mailto:vlad@nsu.ro?subject=Hey%2C%20I%20am%20...)?
 
