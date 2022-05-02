@@ -8,8 +8,9 @@ I write stuff, mostly code.
 
 ### What am I doing right **now**:
 
-- Got a coworking membership at Spaces, first week looks promising
-- Read a new article on [web3](/article/web3.html) by [Scott Galloway](https://www.profgalloway.com/web3/)
+- Back to the coworking place, managed to book the whole week in the same location
+- Launching some projects I've been working on in the past two months, one of them: [Antiseismic District](https://antiseismic.info)
+- Started reading "No! The Power of Disagreement in a World that Wants to Get Along" by Charlan Nemeth
 
 [How are you](mailto:vlad@nsu.ro?subject=Hey%2C%20I%20am%20...)?
 
