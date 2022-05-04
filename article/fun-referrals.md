@@ -15,6 +15,7 @@ A list of apps and tools that I use:
 - [The useless web](https://theuselessweb.com/) - Sometimes useless becomes useful, or not, definitely not
 
 #### Money and travel
+- [Xolo](www.xolo.io/ref/VLANAS) - Compliance, taxation, invoicing and admin solutions for fiercely independent solopreneurs across the globe.
 - [Wise](https://wise.com/u/5b73f9) - Transfer money from different currencies, also recommend it as a business account
 - [Revolut](https://revolut.com/r/vlad5z0f) - Digital wallet, great for splitting the bill and travels
 - [Secret Escapes](http://www.secretescapes.com/r/5098hs) - Travel in style
