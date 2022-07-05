@@ -25,10 +25,30 @@ a {
     font-weight: normal;
 }
 
+.page a {
+    color: $textColor;
+    border-bottom: 2px solid $textColor;
+}
+
+.page a:hover {
+    border-bottom: 2px dashed $textColor !important;
+}
+
+.page h2 a {
+    border-bottom: 0;
+    border-left: 2px solid transparent;
+    padding-left: 0.25rem;
+}
+
+.page h2 a:hover {
+    border-bottom: 0 !important;
+    border-left: 2px dashed $textColor;
+}
+
 .nav-item > a:not(.external):hover,
 .theme-default-content:not(.custom) a:hover {
     text-decoration: none;
-    border-bottom: 0;
+    border-bottom: 2px solid $textColor;
 }
 
 body h2 {
