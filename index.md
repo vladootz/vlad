@@ -17,6 +17,7 @@ I write stuff, mostly code.
 [How are you](mailto:vlad@nsu.ro?subject=Hey%2C%20I%20am%20...)?
 
 ### Other places:
+- <a rel="me" href="https://mastodon.social/@vladootz">Mastodon</a>
 - [Tocănița de internet](https://tocanita.substack.com/)
 - [Twitter](https://twitter.com/owltakestime/)
 - [Tumblr](https://owltakestime.tumblr.com/)
