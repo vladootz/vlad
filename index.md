@@ -8,11 +8,12 @@ I write stuff, mostly code.
 
 ### What am I doing right **now**:
 
-- Arrived in Madrid on July 1st after some *adventures* (do not enter the M30 tunnel if you only have GPS, or at least count the km and memorize the exit before you enter)
-- Adjusting to the temperature (from 19-22°C in Porto to 35-39°C here) by having cold showers and going to the pool
-- Found some interesting books in [the place I stay](https://www.bravojoana.com/), one of them: Rainer Maria Rilke - Letters to a Young Poet; besides that I finished reading Ușa Interzisă (The Forbidden Door) by Gabriel Liiceanu and started cleaning/reading the bookmarks tagged 'to read'
-- Wrote some updates on [may](/then/2022-05.html) and [june](/then/2022-06.html) (I really took the holiday seriously)
-- Getting ready to greet all the people that have plans to visit Madrid this month, this is truly a social city
+- Handling quite well the way-above-average temperatures for July in Madrid (~39°C, with some consecutive days of +40°C)
+- Went for up to 3 cold showers per day
+- Finished some older tasks and smaller projects, and replaced one of the VPS providers
+- Got a bit into Shopify theme building, but the new online code editor is below reproach
+- Dropped meat consumption to a minimum, lo siento, jamon iberico
+- Had some fun at San Juan Reservoir (Pantano de San Juan) in a weekend, went kayaking on the lake
 
 [How are you](mailto:vlad@nsu.ro?subject=Hey%2C%20I%20am%20...)?
 
