@@ -1,0 +1,137 @@
+html {
+    --dark: #000;
+    --light: #FFF;
+    --lighter-gray: #CECECE;
+    --light-gray: #AEAEAE;
+    --dark-gray: #252528;
+    --darker-gray: #0b0b0f;
+    font-size: 125%;
+}
+
+body {
+    background: radial-gradient(var(--dark-gray),var(--darker-gray));
+    background-attachment: fixed;
+    min-height: 100vh;
+    font-size: 100%;
+    line-height: 1.5;
+    color: var(--lighter-gray);
+    font-family: -apple-system, "BlinkMacSystemFont", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong {
+    font-weight: 500;
+    margin: 0 0 1rem;
+}
+
+a {
+    color: var(--lighter-gray);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--lighter-gray);
+}
+
+a:visited {
+    color: var(--light-gray);
+    border-color: var(--light-gray);
+}
+
+a:hover {
+    border-bottom-style: solid;
+}
+
+header {
+    padding: 0.75rem 1.5rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+header > a {
+    border-bottom: 0;
+    color: var(--lighter-gray);
+}
+
+header > a:visited {
+    color: var(--lighter-gray);
+}
+
+header ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+header ul li {
+    display: inline-block;
+}
+
+header ul li:not(:last-child) {
+    margin-right: 1rem;
+}
+
+.content {
+    width: 45em;
+    max-width: 80vw;
+    margin: 0 auto;
+    padding: 0 2.5rem 2rem;
+}
+
+.content sub,
+.content sup {
+    display: inline-block;
+}
+
+.gallery {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.2rem;
+}
+
+.gallery > div {
+    flex-basis: calc(33% - 0.2rem);
+    display: flex;
+    align-items: center;
+    transition: all 0.5s;
+}
+
+.gallery a {
+    border: 0;
+    display: inherit;
+    background: no-repeat center;
+    background-size: cover;
+    height: 100%;
+}
+
+.gallery img,
+.gallery video {
+    max-width: 100%;
+    display: block;
+}
+
+.gallery.archive .image_5:hover,
+.gallery.archive .image_7:hover,
+.gallery.archive .image_13:hover,
+.gallery.archive .image_15:hover,
+.gallery.archive .image_102:hover {
+    z-index: -1;
+}
+
+.gallery.archive .image_5,
+.gallery.archive .image_7,
+.gallery.archive .image_13,
+.gallery.archive .image_15,
+.gallery.archive .image_102 {
+    margin-left: -33% !important;
+}
+
+.gallery.archive .image img {
+    opacity: 0;
+}

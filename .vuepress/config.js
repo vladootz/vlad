@@ -11,6 +11,7 @@ module.exports = {
       { text: 'then', link: '/then/' },
       { text: 'words', link: '/article/' },
       { text: 'poe', link: '/poe/' },
+      { text: '📷', link: '/camera/' },
       { text: '🇺🇦', link: 'https://war.ukraine.ua/support-ukraine/' }
     ]
   }
