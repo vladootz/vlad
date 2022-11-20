@@ -28,7 +28,7 @@ A list of resources to remind yourself that the devices you use are tools and yo
 - [The true cost of email and IM](https://blog.rescuetime.com/communication-multitasking/)
 - [Having Your Smartphone Nearby Takes a Toll on Your Thinking](https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking)
 - [Six years with a distraction free iphone](https://medium.com/s/story/six-years-with-a-distraction-free-iphone-8cf5eb4f97e3)
-- (RO) [Actualizator by DOR](https://us4.campaign-archive.com/home/?u=e0e3ba0b168a961b7b80c955e&id=49d62d00b3)
+- (RO) [Actualizator by DOR - articles by Cristina Chipurici](https://www.dor.ro/author/cristina-chipurici/)
 
 ### Tools
 - [Take control](https://humanetech.com/take-control/) - [Center for Humane Technology](https://humanetech.com/)
