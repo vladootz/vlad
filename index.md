@@ -22,6 +22,7 @@ I write stuff, mostly emails these days.
 ### Other places:
 - [Tocănița de internet [ro] ➚](https://tocanita.substack.com/)
 - [Mastodon](https://mastodon.green/@vlad/)
+- [Hardcover](https://hardcover.app/vlad)
 - [Metapixl](https://metapixl.com/@vlad/)
 - [Tumblr](https://owltakestime.tumblr.com/)
 - [Instagram archive](/camera/archive.html)
