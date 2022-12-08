@@ -12,7 +12,6 @@ A list of resources to remind yourself that the devices you use are tools and yo
 
 ### Videos
 
-- [Digital Hygiene: How We Might've Fucked Our Attention Spans](https://www.youtube.com/watch?v=VpHyLG-sc4g) - [Exurb1a](https://www.youtube.com/user/willunicycleforfood/)
 - [How a handful of tech companies control billions of minds every day](https://www.youtube.com/watch?v=C74amJRp730) - [Tristan Harris](http://www.tristanharris.com/)
 - [Quit social media](https://www.youtube.com/watch?v=3E7hkPZ-HTk) - [Dr. Cal Newport](http://calnewport.com/)
 - [The Real Effects of Social Media & Cell Phones](https://www.youtube.com/watch?v=sMqkItnUTVg) - [Simon Sinek](https://startwithwhy.com/)
