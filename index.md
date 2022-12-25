@@ -4,18 +4,16 @@ title: Now
 
 ## Salut! Oi! Hola! Hi!
 
-I write stuff, mostly emails these days.
+I write stuff, mostly ~~emails~~ christmas postcards these days.
 
 ### What am I doing right **now**:
 
-- Cooked myself a nice, simple meal on this lazy sunday
-- Went a bit overboard with socializing these weeks, but it's incredible how many foreigners are in Bansko (as well as coworking spaces)
-- Picking the events I want to go to this next week and planning a short trip to Veliko Tarnovo next weekend 
-- Pondering about building a personal image gallery or using something from the [fediverse](https://fediverse.party/); any other suggestions?
-- Managed to get on track with most work projects and still a lot to deliver, but got a wave of new ideas to build something from scratch
-- Read and watched "Childhood's End" - _devilshly_ awesome SF novel by Arthur C. Clarke, and started reading "Quantum Man: Richard Feynman's Life in Science" by Lawrence M. Krauss
-- Also got a bit on track with some TV Series and enjoying the hikes around here
-- Updated the DOR link on the [NOtifications list of links](/article/notifications.html)
+- Riding the train from my parent's place to Bucharest, then heading back to Bansko
+- Having some quiet holidays with friends and family, and receiving greetings from all the awesome people I met this and last year
+- Thoroughly enjoyed traditional food at home
+- Finished the year with lots of delivered projects, might have a proper portfolio page at some point
+- Getting ready to test the only open slope in Bansko
+- Still playing with my sleeping schedule, keeping up with cold showers every now and then and noticing how coffee usage is going down (sorry, [Origo](https://origocoffee.ro/))
 
 [How are you](mailto:vlad@nsu.ro?subject=Hey%2C%20I%20am%20...)?
 
