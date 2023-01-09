@@ -18,11 +18,11 @@ I write stuff, mostly ~~emails~~ christmas postcards these days.
 [How are you](mailto:vlad@nsu.ro?subject=Hey%2C%20I%20am%20...)?
 
 ### Other places:
-- [Tocănița de internet [ro] ➚](https://tocanita.substack.com/)
+- [Glass](https://glass.photo/nvm)
 - [Mastodon](https://mastodon.green/@vlad/)
 - [Hardcover](https://hardcover.app/vlad)
-- [Metapixl](https://metapixl.com/@vlad/)
 - [Tumblr](https://owltakestime.tumblr.com/)
 - [Instagram archive](/camera/archive.html)
+- [Tocănița de internet [ro] ➚](https://tocanita.substack.com/)
 
 <sub style="text-align: center; display: block;">Made in [🇪🇺](/then/)</sub>
