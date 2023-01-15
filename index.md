@@ -4,16 +4,16 @@ title: Now
 
 ## Salut! Oi! Hola! Hi!
 
-I write stuff, mostly ~~emails~~ christmas postcards these days.
+I write stuff, mostly javascript these days.
 
 ### What am I doing right **now**:
 
-- Riding the train from my parent's place to Bucharest, then heading back to Bansko
-- Having some quiet holidays with friends and family, and receiving greetings from all the awesome people I met this and last year
-- Thoroughly enjoyed traditional food at home
-- Finished the year with lots of delivered projects, might have a proper portfolio page at some point
-- Getting ready to test the only open slope in Bansko
-- Still playing with my sleeping schedule, keeping up with cold showers every now and then and noticing how coffee usage is going down (sorry, [Origo](https://origocoffee.ro/))
+- Catching up with friends over coffees, dinners and drinks in Bucharest, sometimes all at once
+- Getting back to work has been a bit hectic, not sure if the vibe in the big city has anything to do with that, I'll see how I feel next month
+- Going through some year old newsletters (hehe) and tidying up bookmarks and lists (movies to watch, music to listen to)
+- Organizing and re-organizing my stuff, figuring out what I really need so I can get rid of the rest
+- Realising I can make myself feel at home pretty much anywhere in a few days - this will come in handy over the next few months
+- Found a **neat place** to upload photos: [Glass.photo](https://glass.photo/nvm)
 
 [How are you](mailto:vlad@nsu.ro?subject=Hey%2C%20I%20am%20...)?
 
