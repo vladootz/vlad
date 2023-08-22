@@ -8,7 +8,6 @@ module.exports = {
     search: false,
     nav: [
       { text: 'acum', link: '/' },
-      { text: 'atunci', link: 'https://vlads.space/category/then/' },
       { text: 'gânduri', link: '/article/' },
       { text: 'poe', link: '/poe/' },
       { text: '🇺🇦', link: 'https://war.ukraine.ua/support-ukraine/' }
