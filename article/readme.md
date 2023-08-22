@@ -2,10 +2,10 @@
 article_index: true
 ---
 
-## Stuff I write and resources I gather
+## Uneori mai scriu ce-mi trece prin cap
 
 \
 <ArticleIndex />
 
-## [Tocănița de internet [ro] ➚](https://tocanita.substack.com/)
-## [Arhiva [ro] ➚](https://archive.vlad.ro/)
+## [Tocănița de internet](https://tocanita.substack.com/)
+## [Arhivă](https://archive.vlad.ro/)

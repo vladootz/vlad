@@ -1,5 +1,5 @@
 ---
-title: Dragă, Românie [ro]
+title: Dragă, Românie
 date: 2022-08-10
 data: 10 August 2022
 ---

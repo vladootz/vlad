@@ -2,10 +2,10 @@
 poe_index: true
 ---
 
-## Scurta viață a lui Marian Norescu
+## Poesia poetică din poiată
 
 \
 <PoeIndex />
 
 \
-<sub><sup>Copyright &copy; 2019-2021 Vlad Nastasiu</sup></sub>
+<sub><sup>Copirat &copy; Vlad Nastasiu</sup></sub>

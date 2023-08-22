@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'back to n⥁w',
+  title: 'înapoi aici',
   description: '',
   head: [
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
@@ -7,11 +7,10 @@ module.exports = {
   themeConfig: {
     search: false,
     nav: [
-      { text: 'now', link: '/' },
-      { text: 'then', link: '/then/' },
-      { text: 'words', link: '/article/' },
+      { text: 'acum', link: '/' },
+      { text: 'atunci', link: 'https://vlads.space/category/then/' },
+      { text: 'gânduri', link: '/article/' },
       { text: 'poe', link: '/poe/' },
-      { text: '📷', link: 'https://vlad.ro/camera/archive.html' },
       { text: '🇺🇦', link: 'https://war.ukraine.ua/support-ukraine/' }
     ]
   }
