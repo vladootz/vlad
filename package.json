@@ -19,6 +19,6 @@
   },
   "homepage": "https://vlad.ro",
   "dependencies": {
-    "vuepress": "^0.14.11"
+    "vuepress": "^1.9.7"
   }
 }
