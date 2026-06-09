@@ -4,3 +4,4 @@ node_modules
 *.sh
 .DS_Store
 *.gz
+public
